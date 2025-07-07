@@ -1,0 +1,25 @@
+# Core data processing - Pandas
+pandas>=1.5.0
+pyarrow>=10.0.0
+
+# Machine learning for similarity
+scikit-learn>=1.2.0
+numpy>=1.24.0
+
+# Pipeline orchestration (optional)
+luigi>=3.0.0
+
+# Testing
+pytest>=7.0.0
+pytest-cov>=4.0.0
+
+# Data quality validation
+great-expectations>=0.17.0
+
+# Development tools
+black>=22.0.0
+flake8>=5.0.0
+mypy>=1.0.0
+
+# Logging and utilities
+python-dateutil>=2.8.0 

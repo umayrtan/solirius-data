@@ -1,0 +1,64 @@
+{"type": "struct", 
+    "fields": [
+        {
+            "name": "id", 
+            "type": "integer", 
+            "nullable": true, 
+            "metadata": {}
+        },
+        {
+            "name": "title", 
+            "type": "string", 
+            "nullable": true, 
+            "metadata": {}
+        },
+        {
+            "name": "director", 
+            "type": "string", 
+            "nullable": true, 
+            "metadata": {}
+        },
+        {
+            "name": "cast", 
+            "type": "string", 
+            "nullable": true, 
+            "metadata": {}
+        },
+        {
+            "name": "country", 
+            "type": "string", 
+            "nullable": true, 
+            "metadata": {}
+        },
+        {
+            "name": "release_year", 
+            "type": "date", 
+            "nullable": true, 
+            "metadata": {}
+        },
+        {
+            "name": "adult", 
+            "type": "boolean", 
+            "nullable": true, 
+            "metadata": {}
+        },
+        {
+            "name": "durationMins", 
+            "type": "integer", 
+            "nullable": true, 
+            "metadata": {}
+        },
+        {
+            "name": "genres", 
+            "type": "string", 
+            "nullable": true, 
+            "metadata": {}
+        },
+        {
+            "name": "description", 
+            "type": "string", 
+            "nullable": true, 
+            "metadata": {}
+        }
+    ]
+}
